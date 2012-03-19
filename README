@@ -1,0 +1,13 @@
+SLiM Tweak
+
+SLiM Tweak is a small project that focus on provide a UI to change the configurations of Simple Login Manager (SLiM).
+
+Use:
+
+Execute "interface.py" as root an be happy.
+
+Requires:
+
+Python 3
+Python-Qt4
+Simple Login Manager (SLiM)
